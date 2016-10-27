@@ -9,6 +9,6 @@ for(i=1;i<=n;i++)
 f=f*i;
 }
 System.out.println("factorial of 5 is "+f);
-
+// changedddd
 }
 }
